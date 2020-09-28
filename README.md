@@ -42,5 +42,5 @@ https://github.com/CSSEGISandData/COVID-19
   - pandas 데이터프레임.iplot() 같은 형태로 데이터프레임을 바로 그래프로 그릴 수 있음
   - https://plotly.com/python/  
 
-### 지금까지 익힌 데이터 처리 기술을 기반으로 데이터 시각화를 위해, raw data를 포멧에 맞추어 변환하여 그래프를 만들어보기로 함
+
 <img src="https://www.fun-coding.org/00_Images/covid_graph_ex2.jpg" />
