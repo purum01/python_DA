@@ -28,7 +28,19 @@ https://github.com/CSSEGISandData/COVID-19
 - seaborn: matplotlib을 기반으로 다양한 통계 차트 및 색상 테마를 추가한 라이브러리
   - matplotlib 라이브러리로만은 이쁘지 않았고, 다양한 차트에 대한 요구가 많아서 개발된 라이브러리
   
+
+
+### 데이터 시각화란?
+- 데이터 분석 결과를 쉽게 이해할 수 있도록 시각적으로 표현하고 전달되는 과정
+- 탐색적 데이터 분석, 데이터 처리, 데이터 예측 모든 경우, 결과를 알아보기 쉽게 하기 위해 데이터 시각화는 필수적임
+- 다양한 시각화 기법 중, 가장 최신의 흥미로운 데이터 시각화 과정을 진행해보기로 함
+  - https://app.flourish.studio
+  - https://public.flourish.studio/visualisation/2897018/
+  
 #### 최신 시각화 라이브러리: plotly
   - pandas 기능과 plotly 를 조합해서 최신/가장 빠르게 시각화 가능
   - pandas 데이터프레임.iplot() 같은 형태로 데이터프레임을 바로 그래프로 그릴 수 있음
-  - https://plotly.com/python/
+  - https://plotly.com/python/  
+
+### 지금까지 익힌 데이터 처리 기술을 기반으로 데이터 시각화를 위해, raw data를 포멧에 맞추어 변환하여 그래프를 만들어보기로 함
+<img src="https://www.fun-coding.org/00_Images/covid_graph_ex2.jpg" />
