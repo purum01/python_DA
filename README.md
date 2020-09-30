@@ -43,4 +43,4 @@ https://github.com/CSSEGISandData/COVID-19
   - https://app.flourish.studio
   - https://public.flourish.studio/visualisation/3868936/
   - https://www.countryflags.io/
-  - (google material color)[https://material.io/design/color/the-color-system.html#color-usage-and-palettes]
+  - [google material color](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
