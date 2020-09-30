@@ -44,6 +44,3 @@ https://github.com/CSSEGISandData/COVID-19
   - https://public.flourish.studio/visualisation/3868936/
   - https://www.countryflags.io/
   
-
-
-<img src="https://www.fun-coding.org/00_Images/covid_graph_ex2.jpg" />
