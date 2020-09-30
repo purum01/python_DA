@@ -41,7 +41,7 @@ https://github.com/CSSEGISandData/COVID-19
 
 - 다양한 시각화 기법 중, 가장 최신의 흥미로운 데이터 시각화 과정을 진행해보기로 함
   - https://app.flourish.studio
-  - https://public.flourish.studio/visualisation/2897018/
+  - https://public.flourish.studio/visualisation/3868936/
   - https://www.countryflags.io/
   
 
